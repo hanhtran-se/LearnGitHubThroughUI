@@ -115,3 +115,4 @@ Khi bạn muốn thay đổi code hoặc thêm tính năng:
 - Changes are saved using commits.
 - Pull requests are used to share code changes for review.
 - When the code is ready to deploy, merge it back into main.
+#### &#169; 2026 Hanhtran
